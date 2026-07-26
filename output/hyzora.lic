@@ -1,0 +1,9 @@
+{
+    "payload": {
+        "company_name": "Hyzora",
+        "domain": "abcd.com",
+        "issued_on": "2026-07-20",
+        "expires_on": "2026-07-22"
+    },
+    "signature": "Pg8k0E81qQiA+7r98sO0ccK1TdriDGDIQ1+/wmkD9+G7HOgPLnVtGehUu77zPB5rsVigdP9R4ef1b3L5Of6FjG5XpK03WFg5uKrpurJv01wLWigCOeAy2v+Bf0IdCq1FbOL8iGmjA0KieSnriiCIaxmr0Cn+MuZMFUt11DJ6KoSDFFIeJMp95yMDq1DmBS11RjZWKwjr8q0ujTe9s2SSvFRgUS/0sWP/ObpMcvKPVK11Ll7PhmhNkINPCmpOgmHgUyrLjMkCZcV8fnnaN65rAfMv5yno/DvomhFuIyDtTEaxwfyvbO1t5hvDc8XzeJFwmtHJYdMzHLcLijfQt3+yrg=="
+}
